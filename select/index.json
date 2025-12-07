@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "TANK",
+  "base_artist": "NMIXX",
+  "createdAt": "2025-12-07T09:22:41.926390Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tank Of Gas And A Radio Song",
+      "artist": "Travis Denning",
+      "has_synced": true,
+      "path": "select/01_Tank_Of_Gas_And_A_Radio_Song_Travis_Denning.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tank",
+      "artist": "The Stranglers",
+      "has_synced": true,
+      "path": "select/02_Tank_The_Stranglers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "On Tank",
+      "artist": "42 Dugg",
+      "has_synced": true,
+      "path": "select/03_On_Tank_42_Dugg.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "On Tank",
+      "artist": "42 Dugg",
+      "has_synced": true,
+      "path": "select/04_On_Tank_42_Dugg.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Think Tank",
+      "artist": "Airiel",
+      "has_synced": true,
+      "path": "select/05_Think_Tank_Airiel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Think Tank",
+      "artist": "Public Image Ltd.",
+      "has_synced": true,
+      "path": "select/06_Think_Tank_Public_Image_Ltd..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Think Tank",
+      "artist": "Public Image Ltd",
+      "has_synced": true,
+      "path": "select/07_Think_Tank_Public_Image_Ltd.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Know You Like It (Bobby Tank Remix)",
+      "artist": "AlunaGeorge",
+      "has_synced": false,
+      "path": "select/08_You_Know_You_Like_It_(Bobby_Tank_Remix)_AlunaGeorge.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Alive In The Septic Tank",
+      "artist": "Clarence Clarity",
+      "has_synced": true,
+      "path": "select/09_Alive_In_The_Septic_Tank_Clarence_Clarity.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tank Commander (Hung Up In A Warehouse Town)",
+      "artist": "Constantines",
+      "has_synced": false,
+      "path": "select/10_Tank_Commander_(Hung_Up_In_A_Warehouse_Town)_Constantines.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Full Tank",
+      "artist": "Paul Gilbert",
+      "has_synced": false,
+      "path": "select/11_Full_Tank_Paul_Gilbert.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "World In My Eyes - Oil Tank Mix",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/12_World_In_My_Eyes_-_Oil_Tank_Mix_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "World In My Eyes [Oil Tank Mix]",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/13_World_In_My_Eyes_[Oil_Tank_Mix]_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tank (Mk.1)",
+      "artist": "Bolt Thrower",
+      "has_synced": true,
+      "path": "select/14_Tank_(Mk.1)_Bolt_Thrower.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tank (Mk.I)",
+      "artist": "Bolt Thrower",
+      "has_synced": true,
+      "path": "select/15_Tank_(Mk.I)_Bolt_Thrower.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Marching Tank",
+      "artist": "U.D.O.",
+      "has_synced": true,
+      "path": "select/16_Marching_Tank_U.D.O..lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Gas Tank",
+      "artist": "Home Video",
+      "has_synced": false,
+      "path": "select/17_Gas_Tank_Home_Video.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Think Tank Trials",
+      "artist": "Napalm Death",
+      "has_synced": true,
+      "path": "select/18_Think_Tank_Trials_Napalm_Death.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Born in a Tank",
+      "artist": "Candlemass",
+      "has_synced": true,
+      "path": "select/19_Born_in_a_Tank_Candlemass.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TANK",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_TANK_NMIXX.txt"
+    }
+  ]
+}
